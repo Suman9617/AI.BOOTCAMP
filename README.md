@@ -1,2 +1,2 @@
 # AI.BOOTCAMP
-This Ai  bootcamp 
+ Ai  bootcamp 
